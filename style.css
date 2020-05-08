@@ -1,0 +1,23 @@
+#recipe {
+  background: url("images/list-bg.png");
+}
+body {
+  padding-left: 15%;
+  padding-right: 15%;
+
+}
+
+img.align-center{
+  display: block;
+  margin: 0px auto;
+}
+img.medium {
+  width: 820px;
+}
+#pizza{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+ul li {
+  display: inline-block;
+}
